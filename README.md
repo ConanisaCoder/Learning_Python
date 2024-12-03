@@ -1,2 +1,2 @@
 # Learning_Python
-This a repository that displays what I have learnt in python 
+This a repository made to show my day to day Commitment of Learning Python.
